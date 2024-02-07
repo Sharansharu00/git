@@ -5,6 +5,7 @@ public class newJaVa{
         for (int i=0;i<=255;i++){
             char Ascii=(char)i;
             System.out.println(i+" Ascii values is: "+Ascii);
+            System.out.println(Ascii);
         }
 
     }
